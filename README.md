@@ -1,8 +1,8 @@
-# flutterproject
-
+# World Clock
 
 A new Flutter project.
 
+API used : http://worldtimeapi.org/ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
